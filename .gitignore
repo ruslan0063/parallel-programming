@@ -1,0 +1,27 @@
+# executables
+*.exe
+*.out
+
+# object files
+*.o
+*.obj
+
+# build folders
+build/
+
+# cmake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# generated matrices
+A*.txt
+B*.txt
+
+# results
+results.csv
+*.png
+
+# python cache
+__pycache__/
