@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.a
+*.lib
+*.so
+*.dylib
+*.csv
