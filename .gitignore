@@ -1,0 +1,13 @@
+*.exe
+*.obj
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.o
+*.out
+*.a
+*.so
+*.csv
+result.txt
+graph.png
